@@ -86,7 +86,7 @@ WSGI_APPLICATION = 'Serialize_Project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'nth_rest9amdb_serializedb',
+        'NAME': 'serializedb',
         'USER' : 'root',
         'PASSWORD' : 'root',
     }
